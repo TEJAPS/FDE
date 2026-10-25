@@ -102,4 +102,4 @@ Approved PDFs/tickets -> parse/clean -> redact if required
 ## Related notes
 - [Exercise 1: Discovery](day01-exercise-01-customer-discovery.md)
 - [Detailed architecture notes](../customer-scenarios/day01-incident-rag-mvp.md)
-- [Exercise 3: Enterprise data security](../customer-scenarios/day01-enterprise-rag-security.md)
+- [Exercise 3: Enterprise data security](day01-exercise-03-enterprise-rag-data-security.md)
