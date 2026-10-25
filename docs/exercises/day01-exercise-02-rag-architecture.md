@@ -1,6 +1,16 @@
-# Day 1 — Exercise 2: RAG-Based Incident Assistance Architecture
+# Day 1 — Exercise 2: MVP Architecture Selection — RAG-Based Incident Assistance
 
 **Status:** Completed · **Your answer:** B (correct)
+
+## Purpose
+Learn to translate validated customer requirements into the **smallest safe, testable architecture**. Practice choosing between RAG, autonomous agents, fine-tuning and rules, then explaining component responsibilities, data flow, trade-offs and delivery feasibility.
+
+## Exercise description
+The customer has historical ServiceNow incidents, internal PDFs and runbooks, a three-week pilot deadline, tenant-access requirements and a strict prohibition on automated incident closure. Select the architecture that provides cited troubleshooting guidance without unnecessary autonomy.
+
+## Expected learning outcome / deliverable
+An MVP architecture decision, logical diagram, request/ingestion data flow, technology trade-offs, security assumptions and three-week pilot plan.
+
 
 ## Customer requirements
 - 10,000 incidents per month (fictional scenario).
