@@ -28,12 +28,15 @@
 
 **Outcome:** Security design, SQL examples, audit event and negative tests. **Completed — Answer B (correct).**
 
-### Exercise 4 — Security Incident Response and Rollout Decision (next)
+### [Exercise 4 — Security Incident Response and Rollout Decision](exercises/day01-exercise-04-security-incident-response.md)
 **Purpose:** Practice incident containment, transparent customer communication, root-cause analysis and evidence-based release decisions.
 
 **Description:** During a pilot, a Payments engineer receives a restricted Database-team runbook excerpt. Decide what to do immediately and what evidence is needed before restarting the pilot.
 
-**Status:** Not started.
+**Outcome:** Containment, root-cause hypotheses, authorization fixes, customer communication, regression tests and go/no-go criteria. **Completed — Answer B (correct).**
+
+## Day 1 completion assessment
+**Conceptual learning complete: 4/4 exercises answered correctly.** Architecture and security work are designs and exercises only; the MVP has not been coded, deployed or independently validated. **Next: Day 2 local development environment and first FastAPI endpoint.**
 
 ## Additional case-study documentation
 - [Detailed customer discovery and RAG MVP architecture](customer-scenarios/day01-incident-rag-mvp.md)
