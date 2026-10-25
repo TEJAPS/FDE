@@ -1,6 +1,16 @@
-# Day 1 — Exercise 1: Customer Discovery
+# Day 1 — Exercise 1: Customer Discovery and Problem Framing
 
 **Status:** Completed · **Your answer:** B (correct)
+
+## Purpose
+Learn to separate a customer's underlying business problem from the solution they initially request. Practice identifying the actual bottleneck, stakeholders, data availability, operational constraints and measurable outcomes **before** choosing tools or architecture.
+
+## Exercise description
+Act as the FDE in an initial meeting with an IT operations customer reporting 10,000 incidents per month. The customer asks for autonomous incident resolution, but no one has yet established which part of the incident workflow is slow. Select the best first action, justify it, and outline discovery questions and success criteria.
+
+## Expected learning outcome / deliverable
+A defensible discovery-first recommendation, a list of stakeholder questions, an illustrative baseline and proposed pilot KPIs.
+
 
 ## Customer scenario
 An enterprise IT operations customer says:
