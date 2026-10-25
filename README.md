@@ -319,3 +319,8 @@ This is a **target structure**, not a claim that all directories already exist. 
 ---
 
 *Roadmap version: 1.0 — 24 October 2026. This README is the single source of truth for the synchronized FDE learning and Dpoint publishing plan.*
+
+## Day 2 — Local Development Setup
+- [Windows + macOS stack, installation and verified Windows versions](docs/day02-development-stack-and-installation.md)
+- [Day 2 command reference (PowerShell and macOS Terminal)](docs/day02-command-reference.md)
+- Windows local workspace: `E:\FDE`; project Python: `3.13` via `uv`.
